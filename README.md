@@ -14,7 +14,7 @@ Permite salvar os dados de uma página web em formato tabular para ser usado no 
 
 Instalar o TamperMonkey no Chrome ou Brave
 
-[TamperMonkey]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=pt
+[TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=pt)
 
 ### Adicionar o script ao TamperMonkey
 
